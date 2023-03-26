@@ -1,7 +1,7 @@
 # Data-Analytics-project-Adult-incomes
 Incomes analysis using adult incomes dataset from kaggle.com
 
-## Project Intro/Objective
+## Project Description
 The project goals to explore the dependence of adult incomes. This project indludes skills such as data loading, data cleaning, outlier detection and removal and data visualization
 
 
